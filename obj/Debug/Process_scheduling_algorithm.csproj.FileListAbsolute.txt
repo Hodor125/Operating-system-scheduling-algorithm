@@ -1,0 +1,13 @@
+E:\code\OS_experiment\Process_scheduling_algorithm\bin\Debug\Process_scheduling_algorithm.exe.config
+E:\code\OS_experiment\Process_scheduling_algorithm\bin\Debug\Process_scheduling_algorithm.exe
+E:\code\OS_experiment\Process_scheduling_algorithm\bin\Debug\Process_scheduling_algorithm.pdb
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.csprojAssemblyReference.cache
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.Properties.Resources.resources
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.csproj.GenerateResource.cache
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.csproj.CoreCompileInputs.cache
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.exe
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.pdb
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.MultiFeedback.resources
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.SJF.resources
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.HRRN.resources
+E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.choose_agrithm.resources
