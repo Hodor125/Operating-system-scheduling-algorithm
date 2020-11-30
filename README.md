@@ -1,4 +1,4 @@
-# Time-slice-scheduling-algorithm
+# 操作系统调度算法
 Time slice scheduling algorithm of operating system,written by c#
 操作系统的调度算法，使用C#编写
 
