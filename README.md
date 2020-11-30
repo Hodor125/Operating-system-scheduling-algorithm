@@ -4,4 +4,4 @@ Time slice scheduling algorithm of operating system,written by c#
 
 ## 多级反馈队列调度
 1.1 功能
-![image](https://github.com/xxx/xx.png)
+![image](https://github.com/Hodor125/Time-slice-scheduling-algorithm/tree/main/img/多级反馈队列调度.png)
