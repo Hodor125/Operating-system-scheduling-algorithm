@@ -11,3 +11,16 @@ E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_
 E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.SJF.resources
 E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.HRRN.resources
 E:\code\OS_experiment\Process_scheduling_algorithm\obj\Debug\Process_scheduling_algorithm.choose_agrithm.resources
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\bin\Debug\Process_scheduling_algorithm.exe.config
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\bin\Debug\Process_scheduling_algorithm.exe
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\bin\Debug\Process_scheduling_algorithm.pdb
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.csprojAssemblyReference.cache
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.choose_agrithm.resources
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.HRRN.resources
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.SJF.resources
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.MultiFeedback.resources
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.Properties.Resources.resources
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.csproj.GenerateResource.cache
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.csproj.CoreCompileInputs.cache
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.exe
+E:\code\git\scheduling_algorithm\Time-slice-scheduling-algorithm\obj\Debug\Process_scheduling_algorithm.pdb
